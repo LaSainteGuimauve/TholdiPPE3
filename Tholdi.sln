@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEST-SSO", "GEST-SSO\GEST-SSO.csproj", "{84F3DEA1-0BE2-41D7-94C5-F23511FA6DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGEST-SSO", "ApiGEST-SSO\ApiGEST-SSO.csproj", "{CF41EA4B-20E0-4355-B970-D04AC6A18B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F3DEA1-0BE2-41D7-94C5-F23511FA6DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F3DEA1-0BE2-41D7-94C5-F23511FA6DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F3DEA1-0BE2-41D7-94C5-F23511FA6DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F3DEA1-0BE2-41D7-94C5-F23511FA6DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF41EA4B-20E0-4355-B970-D04AC6A18B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF41EA4B-20E0-4355-B970-D04AC6A18B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF41EA4B-20E0-4355-B970-D04AC6A18B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF41EA4B-20E0-4355-B970-D04AC6A18B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8E9393-92EE-4E84-9E08-D612586A0A93}
+	EndGlobalSection
+EndGlobal
